@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vardhanthadala
-- 👀 I’m interested in software feild
+- 👀 I’m interested in software field
 - 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
