@@ -16,7 +16,7 @@
 
 # 💻 Tech Stack  
 
-### 🚀 Full Stack  
+## 🚀 Full Stack  
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
@@ -27,7 +27,8 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)  
 
-### 🤖 Generative AI  
+
+## 🤖 Generative AI  
 ![LLMs](https://img.shields.io/badge/LLMs-%2302569B.svg?style=for-the-badge&logo=openai&logoColor=white)  
 ![Transformers](https://img.shields.io/badge/Transformers-%23FF6F00.svg?style=for-the-badge&logo=huggingface&logoColor=white)  
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)  
@@ -35,7 +36,9 @@
 ![RLHF](https://img.shields.io/badge/RLHF-%23150458.svg?style=for-the-badge&logo=pytorch&logoColor=white)  
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23323330.svg?style=for-the-badge&logo=openai&logoColor=white)  
 
-### 🗄️ Databases  
+
+
+## 🗄️ Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=databricks&logoColor=white)  
 ![NeonDB](https://img.shields.io/badge/NeonDB-%2300E676.svg?style=for-the-badge&logo=neondatabase&logoColor=white)  
