@@ -2,7 +2,7 @@
 
 🔭 Working on **Full-Stack Development (Next.js, MERN, React)** & **Generative AI projects**  
 🤝 Open to collaborating on **AI-driven products, scalable web apps, and open-source**  
-🛠️ Skilled in **MERN (MongoDB, Express, React, Node.js), Prisma, Supabase, Convex, Tailwind, Three.js**  
+🛠️ Skilled in **MERN (MongoDB, Express, React, Node.js), Prisma, Supabase, Convex, Tailwind**  
 🌱 Exploring **LLMs, Transformers, Hugging Face, Vision AI, RLHF, and Prompt Engineering**  
 💬 Ask me about **Next.js, Full-Stack Development, Generative AI, and modern databases (MongoDB, SQL, NeonDB, Supabase)**  
 ⚡ Fun fact: **Most of my breakthroughs happen while debugging 😅**  
