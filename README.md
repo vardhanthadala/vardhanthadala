@@ -18,15 +18,7 @@
 # 💻 Tech Stack  
 
 ## 🚀 Full Stack  
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)  
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express)  
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma)  
-![Convex](https://img.shields.io/badge/convex-%23000000.svg?style=for-the-badge&logo=convex)  
-![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css)  
-![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js)  
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)  ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express)  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma)  ![Convex](https://img.shields.io/badge/convex-%23000000.svg?style=for-the-badge&logo=convex)  ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css)  ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js)  
 
 
 ## 🤖 Generative AI  
