@@ -31,9 +31,8 @@
 ---
 
 # 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=vardhanthadala&theme=dark&hide_border=false&count_private=true)  
-![](https://streak-stats.demolab.com?user=vardhanthadala&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vardhanthadala&theme=dark&hide_border=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=vardhanthadala&theme=dark&hide_border=false&count_private=true)  ![](https://streak-stats.demolab.com?user=vardhanthadala&theme=dark&hide_border=false)  
+                                                                 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vardhanthadala&theme=dark&hide_border=false&layout=compact)  
 
 ---
 
