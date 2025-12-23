@@ -22,7 +22,7 @@
 
 
 ## 🤖 Generative AI  
-![LLMs](https://img.shields.io/badge/LLMs-%2302569B.svg?style=for-the-badge&logo=openai)  ![Transformers](https://img.shields.io/badge/Transformers-%23FF6F00.svg?style=for-the-badge&logo=huggingface)  ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)  ![Vision AI](https://img.shields.io/badge/VisionAI-%23000000.svg?style=for-the-badge&logo=tensorflow&logoColor=orange) ![RLHF](https://img.shields.io/badge/RLHF-%23150458.svg?style=for-the-badge&logo=pytorch) n![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23323330.svg?style=for-the-badge&logo=openai)  
+![LLMs](https://img.shields.io/badge/LLMs-%2302569B.svg?style=for-the-badge&logo=openai)  ![Transformers](https://img.shields.io/badge/Transformers-%23FF6F00.svg?style=for-the-badge&logo=huggingface)  ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)  ![Vision AI](https://img.shields.io/badge/VisionAI-%23000000.svg?style=for-the-badge&logo=tensorflow&logoColor=orange) ![RLHF](https://img.shields.io/badge/RLHF-%23150458.svg?style=for-the-badge&logo=pytorch)  ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23323330.svg?style=for-the-badge&logo=openai)  
 
 
 ## 🗄️ Databases  
